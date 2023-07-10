@@ -6,6 +6,7 @@ import 'Tavuk.dart';
 
 void main(){
 
+  // ignore: unused_local_variable
   var aslan = Aslan();
 
   Eatable tavuk = Tavuk();
