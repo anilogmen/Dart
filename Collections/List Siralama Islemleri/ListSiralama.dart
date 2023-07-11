@@ -22,6 +22,7 @@ void main(){
  }
 
  Comparator<Ogrenciler2> siralama1 = (x,y) => x.no.compareTo(y.no);
+ // compare : karşılaştırmak
  ogrenciler.sort(siralama1);
 
  print("sayısal küçükten büyüğe");
